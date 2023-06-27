@@ -1,0 +1,22 @@
+.barra{
+    background-color: #28a745!important;
+}
+
+.fontcolor{
+    color: white!important;
+}
+
+.greycolor{
+
+    text-align:end;
+    color:grey
+    
+}
+
+.location{
+
+    text-align: start;
+    color: gray;
+    font-family:Georgia, 'Times New Roman', Times, serif
+    
+}
